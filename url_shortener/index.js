@@ -1,4 +1,3 @@
-import express from 'express'
 import connectDB from './db/index'
 import app from './app.js'
 dotenv.config({
